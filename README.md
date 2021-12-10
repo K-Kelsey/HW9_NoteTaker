@@ -8,7 +8,6 @@ Here is how to navigate it:
 >Once the application starts, you can begin adding notes to your collection. Click on the text box of the user's desired input (title or body) and fill in what whimsical wonders your brain conjures.
 >The text can be saved by redirecting you mouse to the save icon in the top right of the viewport and click the save icon button.
 >Once the text has been saved, you can refresh your page to see that the text has been saved to the right side of your page. If desired, you can click the red trash can icon and delete whichever notes have served its purpose.
->Enjoy!
 
 Here is a sample of how the website will look:
 
