@@ -12,8 +12,8 @@ Here is how to navigate it:
 
 Here is a sample of how the website will look:
 
-![Homepage](index.js)
-![Code](script.js)
+![Homepage](homepage.png)
+![Code](code.png)
 
 ##Lessons learned from the assignment.
 ---
