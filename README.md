@@ -11,8 +11,8 @@ Here is how to navigate it:
 
 Here is a sample of how the website will look:
 
-![Homepage](https://enigmatic-journey-53027.herokuapp.com)
-![Code](server.js)
+![Homepage](homepage.png)
+![Code](code.png)
 
 ##Lessons learned from the assignment.
 ---
