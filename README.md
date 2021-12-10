@@ -11,8 +11,8 @@ Here is how to navigate it:
 
 Here is a sample of how the website will look:
 
-![Homepage](homepage.png)
-![Code](code.png)
+![Homepage](images/homepage)
+![Code](images/code.png)
 
 ##Lessons learned from the assignment.
 ---
