@@ -14,6 +14,7 @@ Here is a sample of how the website will look:
 ![Homepage](images/homepage.png)
 ![Code](images/code.png)
 
+
 ##Lessons learned from the assignment.
 ---
 
